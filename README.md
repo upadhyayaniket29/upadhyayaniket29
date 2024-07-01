@@ -1,4 +1,5 @@
-![Header](./"C:\Users\windows11\Downloads\github-header-image (1).png")
+![github-header-image (1)](https://github.com/upadhyayaniket29/upadhyayaniket29/assets/88603347/9a755535-073f-4645-9e2b-c99c97bff6d9)
+
 <h1 align="center">Hi 👋, I'm Aniket Upadhyay</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400"  src="https://images.playground.com/0b9a4f9b71264bfcb327bdd7eb7e7e75.jpeg">
